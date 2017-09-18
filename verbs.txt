@@ -1,0 +1,5 @@
+4
+Comer,esse,isst,ißt,essen,esst,essen
+To be,bin,bist,ist,sind,seid,sind
+Leer,lese,liest,liest,lesen,lest,lesen
+Tener,habe,hast,hat,haben,habt,haben
