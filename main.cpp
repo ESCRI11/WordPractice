@@ -35,7 +35,7 @@ void startUp(){
   std::cout << "\n-----------------------";
   std::cout << "\nby: escri11";
   std::cout << "\nCreated: 14/09/2017";
-  std::cout << "\nLatest revision: 18/09/2017";
+  std::cout << "\nLatest revision: 20/09/2017";
   std::cout << "\n";
   std::cout << "~~~~~~~~~~~~~~~~~~~~~~~";
 }
@@ -98,7 +98,7 @@ void insertion(std::vector<words>& wordlist){
   std::cout << "Spanish word: ";
   getline(std::cin, SpanishWord);
   wordlist[size - 1].SpanishWord = SpanishWord;
-  std::cout << "Category(1: Everyday use; 2: Food; 3: Animals; 4: Adjectives; 5: Objects): ";
+  std::cout << "Category(1: Everyday use; 2: Food; 3: Animals; 4: Adjectives; 5: Objects; 6: Clothes): ";
   std::cin >> category;
   wordlist[size - 1].category = category;
   menu(wordlist);
@@ -115,6 +115,7 @@ void spanishToGerman(std::vector<words>& wordlist){
   std::cout << "\n[4] Animals";
   std::cout << "\n[5] Adjectives";
   std::cout << "\n[6] Objects";
+  std::cout << "\n[7] Clothes";
   std::cout << "\n-----------------------";
   std::cout << "\nInsert: ";
   std::cin >> type;
@@ -151,6 +152,7 @@ void germanToSpanish(std::vector<words>& wordlist){
   std::cout << "\n[4] Animals";
   std::cout << "\n[5] Adjectives";
   std::cout << "\n[6] Objects";
+  std::cout << "\n[7] Clothes";
   std::cout << "\n-----------------------";
   std::cout << "\nInsert: ";
   std::cin >> type;

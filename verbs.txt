@@ -1,5 +1,11 @@
-4
+10
 Comer,esse,isst,ißt,essen,esst,essen
 To be,bin,bist,ist,sind,seid,sind
 Leer,lese,liest,liest,lesen,lest,lesen
 Tener,habe,hast,hat,haben,habt,haben
+Pagar,bezahle,bezahlst,bezahlt,bezahlen,bezahlt,bezahlen
+Escribir,schreibe,schreibst,schreibt,schreiben,schreibt,schreiben
+Andar,laufe,läufst,läuft,laufen,lauft,laufen
+Jugar,spiele,spielst,spielt,spielen,spielt,spielen
+Dormir,schlafe,schläfst,schläft,schlafen,schlaft,schlafen
+Ver,sehe,siehst,sieht,sehen,seht,sehen

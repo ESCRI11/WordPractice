@@ -1,4 +1,4 @@
-126
+127
 Mann,Hombre,1
 Junge,Chico,1
 Frau,Mujer,1
@@ -125,3 +125,5 @@ Toll,Formidable,4
 Wahrscheinlich,Probable,4
 Fest,Fijo,4
 Gemainsam,Juntos,4
+Mag,Me gusta,1
+Rock,Faldilla,6
